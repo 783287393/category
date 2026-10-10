@@ -146,7 +146,17 @@ python -m venv .venv
 
 ## 主要功能截图
 
-（演示时补充：单条预测结果页、阈值曲线页、批量预测下载页，建议配合 `docs/screenshots/` 目录）
+| 单条预测（13 项指标表单） | 阈值分析（P-R 曲线与阈值滑块） |
+|---|---|
+| ![单条预测表单](docs/screenshots/form.png) | ![阈值分析 P-R 曲线](docs/screenshots/threshold.png) |
+
+| 批量 CSV 上传预测 | 模型信息页（算法 / 指标 / SHA256） |
+|---|---|
+| ![批量 CSV 上传](docs/screenshots/batch.png) | ![模型信息与 SHA256](docs/screenshots/model.png) |
+
+仓库主页（GitHub）：
+
+![GitHub 仓库](docs/screenshots/github.png)
 
 ## 本实验追加说明
 
